@@ -18,7 +18,7 @@ npm init -y
 
 # To run the tests
 
-3. To run test with any one command mention below
+3. To run test with commands mention below
 
 ```
 npx mocha loginTest.js
