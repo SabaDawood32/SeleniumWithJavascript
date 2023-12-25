@@ -26,6 +26,6 @@ npx mocha makeAppointment.js
 ```
 
 # Test cases file
-testcases dile is attached in repo with Assignment.xslx file.
+testcases file is attached in repo with Assignment.xslx file.
 
 
