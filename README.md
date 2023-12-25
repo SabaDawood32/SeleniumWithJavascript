@@ -7,6 +7,7 @@ git clone
 Install the dependencies on your CI server or local
 npm install
 npm init -y
+
 #To run the tests
 npx mocha loginTest.js
 npx mocha makeAppointment.js
